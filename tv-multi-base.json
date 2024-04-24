@@ -5,6 +5,14 @@
             "name":"小米线路"
         },
         {
+            "url":"http://tv.nxog.top/m/",
+            "name":"讴歌线路"
+        },
+        {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name":"巧记线路"
+        },
+        {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬线路"
         },
