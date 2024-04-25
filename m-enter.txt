@@ -1,4 +1,4 @@
-"storeHouse": [
+{"storeHouse": [
 {"sourceName":"💚精选多仓🍭","sourceUrl":"https://www.gitlink.org.cn/api/w504430863/tv_source/raw/tv-multi-base.json?ref=master"},
 {"sourceName":"💛多仓线路🍭","sourceUrl":"https://www.gitlink.org.cn/api/w504430863/tv_source/raw/tv-multi-repo.json?ref=master"},
 {"sourceName":"💜更新日期:2024/4/24🍭","sourceUrl":"豪"}
