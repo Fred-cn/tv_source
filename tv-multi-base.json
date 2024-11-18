@@ -9,6 +9,10 @@
             "name": "星辰线路"
         },
         {
+            "url": "https://gh.three2all.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "潇洒线路"
+        },
+        {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
             "name":"巧记线路"
         },
