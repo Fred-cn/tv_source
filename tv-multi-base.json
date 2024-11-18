@@ -5,6 +5,10 @@
             "name":"讴歌线路"
         },
         {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hy5528/tvbox/refs/heads/main/XC.json",
+            "name": "星辰线路"
+        },
+        {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
             "name":"巧记线路"
         },

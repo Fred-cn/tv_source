@@ -53,7 +53,7 @@
             "name": "云星日记线路"
         },
         {
-            "url": "http://8.210.232.168/xc.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hy5528/tvbox/refs/heads/main/XC.json",
             "name": "星辰线路"
         },
         {
