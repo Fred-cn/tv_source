@@ -1,10 +1,6 @@
 {
     "urls": [
         {
-            "url":"http://xhww.fun/%E5%B0%8F%E7%B1%B3/DEMO.json",
-            "name":"小米线路"
-        },
-        {
             "url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
             "name":"讴歌线路"
         },
@@ -21,7 +17,7 @@
             "name": "肥猫线路"
         },
         {
-            "url": "http://我不是.摸鱼儿.top",
+            "url": "http://我不是.摸鱼儿.xyz",
             "name": "摸鱼线路"
         },
         {
