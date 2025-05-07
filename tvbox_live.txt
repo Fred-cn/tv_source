@@ -6,116 +6,50 @@
 🇨🇳央蓝｜卫蓝,#genre#
 如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
 CCTV-1    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/ind
-
 CCTV-1    2K,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-
 CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-
 CCTV-3    2K,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
 CCTV-3    2K,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-
 CCTV-4    2K,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-
 CCTV-4    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-4    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-
 CCTV-5    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-
 CCTV-5    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-
 CCTV-5+   2K,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-
 CCTV-5+   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-
 CCTV-6    2K,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8
 CCTV-6    2K,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
-
 CCTV-7    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-7    2K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
 CCTV-8    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-
 CCTV-8    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8    2K,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
-
 CCTV-9    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-
 CCTV-9    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9    2K,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-
 CCTV-10   2K,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
-
 CCTV-10   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-
 CCTV-11   2K,http://39.134.115.163:8080/PLTV-/88888910/224/3221225628/index.m3u8
 CCTV-11   2K,,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-
 CCTV-12   2K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
 CCTV-12   2K,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv12/index.m3u8
-
 CCTV-13   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-
 CCTV-13   2K,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13   2K,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 CCTV-13   2K,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
-
 CCTV-14   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?
-
 CCTV-15   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-
-
 CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-
 CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
-
 CCTV-17   2K,http://59.51.68.40:1936/live/cctv7/playlist.m3u8
 
-🇮🇲欧美｜直播,#genre#
-欧美频道1,http://cdn.adultiptv.net/bigass.m3u8 
-欧美频道2,http://cdn.adultiptv.net/blowjob.m3u8 
-欧美频道3,http://cdn.adultiptv.net/latina.m3u8 
-欧美频道4,http://cdn.adultiptv.net/fetish.m3u8 
-欧美频道5,http://cdn.adultiptv.net/gay.m3u8 
-欧美频道6,http://cdn.adultiptv.net/interracial.m3u8 
-欧美频道7,http://cdn.adultiptv.net/threesome.m3u8 
-欧美频道8,http://cdn.adultiptv.net/pornstar.m3u8 
-欧美频道9,http://cdn.adultiptv.net/milf.m3u8 
-欧美频道10,http://cdn.adultiptv.net/teen.m3u8 
-欧美频道11,http://cdn.adultiptv.net/anal.m3u8
-欧美频道12,http://cdn.adultiptv.net/asian.m3u8
-欧美频道13,http://cdn.adultiptv.net/bigass.m3u8
-欧美频道14,http://cdn.adultiptv.net/bigtits.m3u8
-欧美频道15,http://cdn.adultiptv.net/blonde.m3u8
-欧美频道16,http://cdn.adultiptv.net/blowjob.m3u8 
-欧美频道17,http://cdn.adultiptv.net/brunette.m3u8
-欧美频道18,http://cdn.adultiptv.net/compilation.m3u8
-欧美频道19,http://cdn.adultiptv.net/cuckold.m3u8
-欧美频道20,http://cdn.adultiptv.net/fetish.m3u8
-欧美频道21,http://cdn.adultiptv.net/gangbang.m3u8
-欧美频道22,http://cdn.adultiptv.net/gay.m3u8
-欧美频道23,http://cdn.adultiptv.net/hardcore.m3u8
-欧美频道24,http://cdn.adultiptv.net/interracial.m3u8
-欧美频道25,http://cdn.adultiptv.net/latina.m3u8
-欧美频道26,http://cdn.adultiptv.net/lesbian.m3u8
-欧美频道27,http://cdn.adultiptv.net/livecams.m3u8
-欧美频道28,http://cdn.adultiptv.net/milf.m3u8
-欧美频道29,http://cdn.adultiptv.net/pornstar.m3u8
-欧美频道30,http://cdn.adultiptv.net/pov.m3u8
-欧美频道31,http://cdn.adultiptv.net/rough.m3u8
-欧美频道32,http://cdn.adultiptv.net/russian.m3u8
-欧美频道33,http://cdn.adultiptv.net/teen.m3u8
-欧美频道34,http://cdn.adultiptv.net/brunette.m3u8
-欧美频道35,http://cdn.adultiptv.net/bigtits.m3u8 
-欧美频道36,http://cdn.adultiptv.net/rough.m3u8 
-欧美频道37,http://cdn.adultiptv.net/brunette.m3u8
 🇨🇳航拍｜中国,#genre#
 航拍中国新疆,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8#
 航拍中国黑龙 ?,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50eb00bbc2e445a18082378a302e93a7/1200.m3u8#
@@ -521,6 +455,45 @@ CCTV-17   2K,http://59.51.68.40:1936/live/cctv7/playlist.m3u8
 乐山大佛全景,http://gcbsc.v.live.baishancdnx.cn/gc/lsdfgfl_1/index.m3u8
 福建武夷山玉女峰,http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8
 福建武夷山玉女峰,http://gccncc.v.wscdns.com/gc/wysynf_1/index.m3u8
+
+🔒欧美｜直播_7250,#genre#
+欧美频道1,http://cdn.adultiptv.net/bigass.m3u8 
+欧美频道2,http://cdn.adultiptv.net/blowjob.m3u8 
+欧美频道3,http://cdn.adultiptv.net/latina.m3u8 
+欧美频道4,http://cdn.adultiptv.net/fetish.m3u8 
+欧美频道5,http://cdn.adultiptv.net/gay.m3u8 
+欧美频道6,http://cdn.adultiptv.net/interracial.m3u8 
+欧美频道7,http://cdn.adultiptv.net/threesome.m3u8 
+欧美频道8,http://cdn.adultiptv.net/pornstar.m3u8 
+欧美频道9,http://cdn.adultiptv.net/milf.m3u8 
+欧美频道10,http://cdn.adultiptv.net/teen.m3u8 
+欧美频道11,http://cdn.adultiptv.net/anal.m3u8
+欧美频道12,http://cdn.adultiptv.net/asian.m3u8
+欧美频道13,http://cdn.adultiptv.net/bigass.m3u8
+欧美频道14,http://cdn.adultiptv.net/bigtits.m3u8
+欧美频道15,http://cdn.adultiptv.net/blonde.m3u8
+欧美频道16,http://cdn.adultiptv.net/blowjob.m3u8 
+欧美频道17,http://cdn.adultiptv.net/brunette.m3u8
+欧美频道18,http://cdn.adultiptv.net/compilation.m3u8
+欧美频道19,http://cdn.adultiptv.net/cuckold.m3u8
+欧美频道20,http://cdn.adultiptv.net/fetish.m3u8
+欧美频道21,http://cdn.adultiptv.net/gangbang.m3u8
+欧美频道22,http://cdn.adultiptv.net/gay.m3u8
+欧美频道23,http://cdn.adultiptv.net/hardcore.m3u8
+欧美频道24,http://cdn.adultiptv.net/interracial.m3u8
+欧美频道25,http://cdn.adultiptv.net/latina.m3u8
+欧美频道26,http://cdn.adultiptv.net/lesbian.m3u8
+欧美频道27,http://cdn.adultiptv.net/livecams.m3u8
+欧美频道28,http://cdn.adultiptv.net/milf.m3u8
+欧美频道29,http://cdn.adultiptv.net/pornstar.m3u8
+欧美频道30,http://cdn.adultiptv.net/pov.m3u8
+欧美频道31,http://cdn.adultiptv.net/rough.m3u8
+欧美频道32,http://cdn.adultiptv.net/russian.m3u8
+欧美频道33,http://cdn.adultiptv.net/teen.m3u8
+欧美频道34,http://cdn.adultiptv.net/brunette.m3u8
+欧美频道35,http://cdn.adultiptv.net/bigtits.m3u8 
+欧美频道36,http://cdn.adultiptv.net/rough.m3u8 
+欧美频道37,http://cdn.adultiptv.net/brunette.m3u8
 
 🔒搬砖｜松视_7250,#genre#
 国外直播源解析地址需要梯子，订阅，如有需要可联系本人https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5fTW4gUoypKv_AQ.mp4
