@@ -1,40 +1,44 @@
 {
     "urls": [
         {
-            "url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "url": "https://6492.kstore.space/xnf/xnf.json",
+            "name": "环宇轩线路"
+        },
+        {
+            "url":"https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=2",
             "name":"讴歌线路"
         },
         {
-            "url":"https://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name":"天微影线路"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "南风线路"
-        },
-        {
-            "url": "https://6492.kstore.space/xnf/xnf.json",
-            "name": "环宇轩线路"
         },
         {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
             "name":"巧记线路"
         },
         {
+            "url": "http://ok321.top/tv"
+            "name": "OK线路"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "王小二线路"
+        },
+        {
             "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬线路"
         },
         {
-            "url": "http://ceshi.肥猫.com/PandaQ",
+            "url": "http://肥猫.com/",
             "name": "肥猫线路"
         },
         {
             "url": "http://影视仓.com/",
             "name": "影视仓线路"
-        },
-        {
-            "url": "http://xhztv.top/xhz",
-            "name": "小盒子线路"
         }
      ]
 }

@@ -13,7 +13,7 @@
             "name": "摸鱼线路"
         },
         {
-            "url": "https://gh.three2all.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "潇洒哥线路"
         },
         {
@@ -105,12 +105,16 @@
             "name": "无意线路"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/Fred-cn/zrj/main/vip.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Fred-cn/zrj/main/vip.json",
             "name": "测试一"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/Fred-cn/thzx/main/jsm.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Fred-cn/thzx/main/jsm.json",
             "name": "测试二"
+        },
+        {
+            "url": "https://xn--hiih-wn6lw489o.u.nxog.top/apia.php?id=2",
+            "name": "测试讴歌"
         }
-     ]   
+     ]
 }
