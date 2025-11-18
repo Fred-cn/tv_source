@@ -23,7 +23,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/huya.js"
         }, {
             "key": "csp_xpath_网络搜集库qiumi",
             "name": "球迷🏀",
@@ -32,7 +32,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-qiumi.js"
         }, {
             "key": "csp_xpath_A33",
             "name": "MTV🎸",
@@ -41,7 +41,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/mtv"
         }, {
             "key": "csp_LiteApple",
             "name": "苹果🐞",
@@ -1161,7 +1161,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b02-lgys.js"
         }, {
             "key": "csp_CZSPP",
             "name": "厂长🐞",
@@ -1219,7 +1219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-gongreng.json"
         }, {
             "key": "csp_xpath_网络搜集源03",
             "name": "在线",
@@ -1228,7 +1228,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/zxzj.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/zxzj.js"
         }, {
             "key": "csp_XBiubiubiubiu_lmys",
             "name": "蓝莓(B)",
@@ -1237,7 +1237,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b14-libvio.js"
         }, {
             "key": "csp_xpath_saohuo",
             "name": "骚火",
@@ -1246,7 +1246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cdn.staticaly.com/gh/tvba/x/main/saohuo.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/saohuo.json"
         }, {
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光(B)",
@@ -1255,7 +1255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a00-lgyy.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a00-lgyy.js"
         }, {
             "key": "csp_XBiubiubiubiu_libvio",
             "name": "libvio(B)",
@@ -1264,7 +1264,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a20-libvio619.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a20-libvio619.js"
         }, {
             "key": "csp_XBiubiubiubiu_cokemv",
             "name": "Coke(B)",
@@ -1273,7 +1273,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b00-coke.js"
         }, {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(B)",
@@ -1282,7 +1282,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b13-lezhu.js"
         }, {
             "key": "csp_XBiubiubiubiu_555",
             "name": "555(B)",
@@ -1291,7 +1291,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b01-555dy.js"
         }, {
             "key": "csp_XBiubiubiubiu_ysgc",
             "name": "工厂(B)",
@@ -1300,7 +1300,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b03-ysgc.js"
         }, {
             "key": "csp_XBiubiubiubiu_city",
             "name": "city(B)",
@@ -1309,7 +1309,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/city.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/city.js"
         }, {
             "key": "csp_XBiubiubiubiu_手机看剧",
             "name": "手机(B)",
@@ -1318,7 +1318,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b06-sjkj.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b06-sjkj.js"
         }, {
             "key": "csp_XBiubiubiubiu_口袋影院",
             "name": "口袋(B)",
@@ -1327,7 +1327,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b07-kdys.js"
         }, {
             "key": "csp_biubiu_特狗影视",
             "name": "特狗(B)",
@@ -1336,7 +1336,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a10-tgys.js"
         }, {
             "key": "csp_biubiu_瓜皮TV",
             "name": "瓜皮(B)",
@@ -1345,7 +1345,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a11-gptv.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a11-gptv.js"
         }, {
             "key": "csp_biubiu_真的卡影院",
             "name": "真卡(B)",
@@ -1354,7 +1354,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a12-zk.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a12-zk.js"
         }, {
             "key": "csp_biubiu_大米星球",
             "name": "大米(B)",
@@ -1363,7 +1363,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a13-dmxq.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a13-dmxq.js"
         }, {
             "key": "csp_biubiu_晗剧",
             "name": "晗剧(B)",
@@ -1372,7 +1372,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a14-hanju.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a14-hanju.js"
         }, {
             "key": "csp_XBiubiubiubiu_4kan电影网",
             "name": "4k网(B)",
@@ -1381,7 +1381,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b11-4Kkan.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b11-4Kkan.js"
         }, {
             "key": "csp_XPath_猫群首发",
             "name": "哔嘀",
@@ -1390,7 +1390,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-bidi.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-bidi.json"
         }, {
             "key": "csp_xpath_网络搜集库29",
             "name": "乌龟",
@@ -1399,7 +1399,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-dadagui.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dadagui.json"
         }, {
             "key": "csp_XPathMacFilter_网络搜集源02",
             "name": "极品",
@@ -1408,7 +1408,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/jp"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/jp"
         }, {
             "key": "csp_xpath_网络搜集库naikan",
             "name": "耐看",
@@ -1417,7 +1417,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/516-naikan.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-naikan.js"
         }, {
             "key": "csp_appysv2_爱酷影视",
             "name": "酷酷",
@@ -1435,7 +1435,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-huohuo.js"
         }, {
             "key": "csp_xpath_网络搜集库kankan",
             "name": "看看",
@@ -1444,7 +1444,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/516-wmkankan.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-wmkankan.js"
         }, {
             "key": "csp_AppYsV2_美剧范",
             "name": "美剧",
@@ -1462,7 +1462,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/505-heidong.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/505-heidong.js"
         }, {
             "key": "csp_xpath_网络搜集源A13",
             "name": "六度",
@@ -1471,7 +1471,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/6dutv.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/6dutv.js"
         }, {
             "key": "csp_xpath_网络搜集库108",
             "name": "小熊",
@@ -1480,7 +1480,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-xiaoxiong.json"
         }, {
             "key": "csp_xpath_网络搜集库62",
             "name": "嘀哩",
@@ -1489,7 +1489,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-dili.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dili.json"
         }, {
             "key": "csp_xpath_网络搜集库80",
             "name": "兔子",
@@ -1498,7 +1498,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-tuzi.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-tuzi.json"
         }, {
             "key": "csp_xpath_网络搜集库03",
             "name": "影吧",
@@ -1507,7 +1507,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-yingba.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-yingba.json"
         }, {
             "key": "csp_XPathMacFilter_网络搜集源01-js",
             "name": "VOD",
@@ -1516,7 +1516,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-vod.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-vod.json"
         }, {
             "key": "csp_xpath_网络搜集库72",
             "name": "钉钉",
@@ -1525,7 +1525,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-dingzidy.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dingzidy.json"
         }, {
             "key": "csp_xpath_网络搜集源21",
             "name": "樱花",
@@ -1534,7 +1534,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/x/raw/branch/main/605-yhdm.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/605-yhdm.js"
         }, {
             "key": "csp_xpath_A32",
             "name": "动漫",
@@ -1543,7 +1543,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/x/raw/branch/main/604-dmd.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-dmd.js"
         }, {
             "key": "csp_xpath_网络搜集源22",
             "name": "巴士",
@@ -1552,7 +1552,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/x/raw/branch/main/604-dm84.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-dm84.js"
         }, {
             "key": "csp_xpath_网络搜集源23",
             "name": "AGE",
@@ -1561,7 +1561,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/x/raw/branch/main/604-age.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-age.js"
         }, {
             "key": "csp_biubiu_风车动漫",
             "name": "风车",
@@ -1570,7 +1570,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/d05-fcdm.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/d05-fcdm.js"
         }, {
             "key": "csp_biubiu_森屋新番",
             "name": "森屋",
@@ -1579,7 +1579,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/d02-swxf.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/d02-swxf.js"
         }, {
             "key": "csp_biubiu_维奇动漫",
             "name": "维奇",
@@ -1588,7 +1588,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/d03-wqdm.js"
         }, {
             "key": "push_agent",
             "name": "推送",
@@ -1813,5 +1813,5 @@
     ],
     "ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"],
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://gitea.com/99/j/raw/branch/main/pglblb_20220619.txt;md5;065C92F7720FA01E64086455D201CFE1"
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/j/refs/heads/main/2345_220601.txt"
 }
