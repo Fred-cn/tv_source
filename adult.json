@@ -3,7 +3,7 @@
     "lives": [{
             "name": "adult_2023",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2023.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2023.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "",
@@ -11,7 +11,7 @@
         }, {
             "name": "madou",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/madou.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/madou.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "",
@@ -19,7 +19,7 @@
         }, {
             "name": "18_adult",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/18_adult.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/18_adult.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "",
@@ -27,7 +27,7 @@
         }, {
             "name": "adult_2",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "",
@@ -35,7 +35,7 @@
         }, {
             "name": "adult",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "",
@@ -632,7 +632,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "api": "./js/lf_pushagent_min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
         }
     ],
     "doh": [{
