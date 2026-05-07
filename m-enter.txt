@@ -1,5 +1,5 @@
 {"storeHouse": [
 {"sourceName":"💚精选多仓🍭","sourceUrl":"https://tv-source-19g.pages.dev/tv-multi-base.json"},
 {"sourceName":"💛多仓线路🍭","sourceUrl":"https://tv-source-19g.pages.dev/tv-multi-repo.json"},
-{"sourceName":"💜更新日期:2025/10/10🍭","sourceUrl":"豪"}
+{"sourceName":"💜影视多仓🍭","sourceUrl":"https://700sjro44343.vicp.fun/vip/vip/duo.txt"}
 ]}
