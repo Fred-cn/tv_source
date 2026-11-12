@@ -105,16 +105,16 @@
             "name": "无意线路"
         },
         {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊佬在线"
+        },
+        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Fred-cn/zrj/main/vip.json",
             "name": "测试一"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Fred-cn/thzx/main/jsm.json",
             "name": "测试二"
-        },
-        {
-            "url": "https://xn--hiih-wn6lw489o.u.nxog.top/apia.php?id=2",
-            "name": "测试讴歌"
         }
      ]
 }
