@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30",
+    "spider": "./jar/spriederdd.jar;md5;6186a7708fc5b87acb01d955f7a3cf97",
     "wallpaper": "http://api.btstu.cn/sjbz",
     "sites": [
         {
@@ -117,6 +117,25 @@
             ]
         },
         {
+            "key": "audi",
+            "name": "audi",
+            "type": 3,
+            "api": "./js/audi_open.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://maa1829.com/zh"
+        },
+        {
+            "key": "cat",
+            "name": "cat",
+            "type": 3,
+            "api": "./js/mtsp_open.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "lf_js_search",
             "name": "搜索lfsearch",
             "type": 3,
@@ -184,6 +203,17 @@
             "searchable": 1
         },
         {
+            "key": "push_agent",
+            "name": "推送lfpush",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./js/lf_pushagent_min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
+        },
+        {
             "key": "*鲨鱼资源",
             "name": "鲨鱼资源",
             "type": 1,
@@ -198,7 +228,8 @@
             "api": "csp_Kunyu77",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_LiteApple",
@@ -227,7 +258,8 @@
             "api": "csp_DiDuan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_Cokemv",
@@ -236,7 +268,8 @@
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_CZSPP",
@@ -245,7 +278,8 @@
             "api": "csp_CZSPP",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_GitCafe",
@@ -254,7 +288,8 @@
             "api": "csp_GitCafe",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_AliPanSou",
@@ -263,7 +298,8 @@
             "api": "csp_AliPanSou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_SP360",
@@ -282,7 +318,8 @@
             "api": "csp_DY1990",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         }
     ],
     "parses": [

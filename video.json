@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30",
+    "spider": "./jar/spriederdd.jar;md5;6186a7708fc5b87acb01d955f7a3cf97",
     "wallpaper": "http://api.btstu.cn/sjbz",
     "sites": [
         {
@@ -682,7 +682,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json"
+            "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "影库资源",
@@ -961,7 +962,8 @@
             "api": "csp_Kunyu77",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -971,7 +973,8 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/huya.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/huya.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库qiumi",
@@ -981,7 +984,8 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-qiumi.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-qiumi.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_A33",
@@ -991,7 +995,8 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/mtv"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/mtv",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_LiteApple",
@@ -1020,7 +1025,8 @@
             "api": "csp_DiDuan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_Cokemv",
@@ -1029,7 +1035,8 @@
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_XBiubiubiubiu_蓝光影视",
@@ -1049,7 +1056,8 @@
             "api": "csp_CZSPP",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_GitCafe",
@@ -1058,7 +1066,8 @@
             "api": "csp_GitCafe",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_AliPanSou",
@@ -1067,7 +1076,8 @@
             "api": "csp_AliPanSou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_SP360",
@@ -1086,7 +1096,8 @@
             "api": "csp_DY1990",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_appysv2_9e国语",
@@ -1096,7 +1107,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+            "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库112",
@@ -1106,7 +1118,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-gongreng.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-gongreng.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集源03",
@@ -1116,7 +1129,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/zxzj.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/zxzj.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_XBiubiubiubiu_lmys",
@@ -1137,7 +1151,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/saohuo.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/saohuo.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -1312,7 +1327,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-bidi.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-bidi.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库29",
@@ -1322,7 +1338,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dadagui.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dadagui.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_XPathMacFilter_网络搜集源02",
@@ -1332,7 +1349,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/jp"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/jp",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库naikan",
@@ -1342,7 +1360,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-naikan.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-naikan.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_appysv2_爱酷影视",
@@ -1352,7 +1371,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+            "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_hhys",
@@ -1362,7 +1382,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-huohuo.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-huohuo.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库kankan",
@@ -1372,7 +1393,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-wmkankan.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-wmkankan.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_AppYsV2_美剧范",
@@ -1382,7 +1404,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ttzmz.net/api.php/v1.vod"
+            "ext": "http://ttzmz.net/api.php/v1.vod",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库heidong",
@@ -1392,7 +1415,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/505-heidong.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/505-heidong.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集源A13",
@@ -1402,7 +1426,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/6dutv.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/6dutv.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库108",
@@ -1412,7 +1437,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-xiaoxiong.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-xiaoxiong.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库62",
@@ -1422,7 +1448,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dili.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dili.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库80",
@@ -1432,7 +1459,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-tuzi.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-tuzi.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库03",
@@ -1442,7 +1470,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-yingba.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-yingba.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_XPathMacFilter_网络搜集源01-js",
@@ -1452,7 +1481,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-vod.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-vod.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集库72",
@@ -1462,7 +1492,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dingzidy.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dingzidy.json",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集源21",
@@ -1472,7 +1503,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/605-yhdm.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/605-yhdm.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_A32",
@@ -1482,7 +1514,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-dmd.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-dmd.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集源22",
@@ -1492,7 +1525,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-dm84.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-dm84.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_xpath_网络搜集源23",
@@ -1502,7 +1536,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-age.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-age.js",
+            "jar": "./jar/spriederdd.jar;md5;43a3988bd7c7c652bd34e8b14d884c30"
         },
         {
             "key": "csp_biubiu_风车动漫",
