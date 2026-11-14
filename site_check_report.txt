@@ -1,0 +1,186 @@
+检测时间: 2026-11-14 15:40:20  (严格模式: TVBox解析验证+播放数据+格式修复)
+总计: 173  可用: 7 (其中修复 0)  失效: 97  跳过(本地jar): 69  type修正: 0
+==========================================================================================
+
+[格式修复成功] 同一provider换接口风格后恢复, 已回写api/type到video.json
+
+[type修正] api实际格式与声明type不符, 已自动修正并回写video.json
+
+[失效源]
+  色猫  (色猫2)  type=1  https://api.maozyapi.com/inc/apijson_vod.php  -> 连接失败
+  ms4nii  (美少女)  type=0  https://www.msnii.com/api/xml.php  -> 列表可解析但详情接口无播放数据
+  淫水机  (淫水机)  type=0  https://www.xrbsp.com/api/xml.php  -> 列表可解析但详情接口无播放数据
+  香奶儿  (香奶儿)  type=0  https://www.gdlsp.com/api/xml.php  -> 列表可解析但详情接口无播放数据
+  *AIvin  (AIvin)  type=0  http://lbapiby.com/api.php/provide/vod/at/xml  -> XML解析失败(mismatched tag: line 15, column 2)
+  白嫖  (白嫖)  type=0  https://www.kxgav.com/api/xml.php  -> 列表可解析但详情接口无播放数据
+  黄AV  (黄AV)  type=0  https://www.pgxdy.com/api/xml.php  -> 列表可解析但详情接口无播放数据
+  *易看资源  (易看资源)  type=1  https://api.yikanapi.com/api.php/provide/vod/  -> 连接失败
+  f2dcj6.com  (成人02)  type=0  http://f2dcj6.com/sapi?ac=videolist  -> HTTP 404
+  av资源  (av资源)  type=1  https://api.souavzy.vip/api.php/provide/vod/at/json  -> 连接失败
+  caoliuzyw  (草榴)  type=1  https://www.caoliuzyw.com/api.php/provide/vod/at/json/  -> 连接失败
+  ikunzyapi  (爱坤)  type=1  https://ikunzyapi.com/api.php/provide/vod  -> 连接失败
+  feisuzyapi  (飞速)  type=1  https://www.feisuzyapi.com/api.php/provide/vod/?ac=list  -> 连接失败
+  apilj  (辣椒)  type=0  https://apilj.com/api.php/provide/vod/at/xml/  -> 超时
+  timizy  (甜蜜资源)  type=1  https://timizy10.cc/api.php/provide/vod/?ac=list  -> 连接失败
+  51smt4.xyz  (成人01)  type=1  http://51smt4.xyz/api.php/provide/vod/  -> XML解析失败(duplicate attribute: line 2, column 236)
+  jcspcj8.com  (成人02)  type=0  http://jcspcj8.com/api?ac=videolist  -> XML解析失败(not well-formed (invalid token): line 1,)
+  bttcj.com  (成人03)  type=0  http://bttcj.com/inc/sapi.php  -> HTTP 404
+  cjmygzy.com  (成人04)  type=0  http://cjmygzy.com/inc/sapi.php?ac=videolist  -> 连接失败
+  91md.me  (成人05)  type=1  http://91md.me/api.php/provide/vod/  -> 连接失败
+  secj8.com  (成人07)  type=0  http://secj8.com/inc/sapi.php?ac=videolist  -> XML解析失败(not well-formed (invalid token): line 3,)
+  api.putaozy.net  (成人08)  type=1  http://api.putaozy.net/inc/apijson_vod.php  -> 连接失败
+  llzxcj.com  (成人09)  type=0  http://llzxcj.com/inc/sck.php?ac=videolist  -> 连接失败
+  99zy.pw  (成人12)  type=1  http://99zy.pw/api.php/provide/vod/  -> 连接失败
+  ggmmzy.com  (成人13)  type=0  http://www.ggmmzy.com:9999/inc/xml  -> 连接失败
+  feifei67.com  (成人15)  type=1  http://www.feifei67.com/api.php/provide/vod/  -> XML解析失败(not well-formed (invalid token): line 1,)
+  sdszyapi.com  (成人16)  type=0  http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml  -> 超时
+  madouse.la  (成人17)  type=1  http://madouse.la/api.php/provide/vod/  -> 超时
+  xjjzyapi.com  (成人18)  type=0  http://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml  -> 连接失败
+  shabizy.com  (成人19)  type=0  http://www.shabizy.com:777/inc/sea  -> 连接失败
+  caiji21.com  (成人20)  type=0  http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml  -> 超时
+  caiji25.com  (成人21)  type=0  http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml  -> 超时
+  caiji26.com  (成人22)  type=0  http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml  -> 超时
+  caiji24.com  (成人23)  type=0  http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml  -> 超时
+  888dav.com  (成人26)  type=1  https://www.888dav.com/api.php/provide/vod/  -> 超时
+  mgav1.cc  (成人27)  type=0  https://www.mgav1.cc/api.php/provide/vod/at/xml  -> 超时
+  mgzyz1.com  (成人28)  type=1  https://mgzyz1.com/api.php/provide/vod/  -> 超时
+  kkzy.me  (成人30)  type=1  https://kkzy.me/api.php/provide/vod/  -> 空响应
+  caiji.huakuiapi.com  (成人31)  type=1  https://caiji.huakuiapi.com/inc/apijson_vod.php  -> 连接失败
+  siwazyw.cc  (成人32)  type=1  https://siwazyw.cc/api.php/provide/vod/  -> SSL错误
+  api.sexnguon.com  (成人34)  type=1  https://api.sexnguon.com/api.php/provide/vod/  -> 连接失败
+  dmmapi.com  (成人35)  type=0  https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml  -> 连接失败
+  xx55zyapi.com  (成人36)  type=0  https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml  -> 超时
+  caiji02.com  (成人38)  type=0  https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml  -> 连接失败
+  caiji07.com  (成人40)  type=0  https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml  -> 连接失败
+  caiji03.com  (成人42)  type=0  https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml  -> 连接失败
+  caiji08.com  (成人43)  type=0  https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml  -> 连接失败
+  caiji10.com  (成人44)  type=0  https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml  -> 连接失败
+  52zyapi.com  (成人45)  type=0  https://52zyapi.com/home/cjapi/asda/mc10/vod/xml  -> 超时
+  apittzy.com  (成人46)  type=1  https://apittzy.com/api.php/provide/vod/  -> 连接失败
+  api.xiuseapi.com  (成人47)  type=1  https://api.xiuseapi.com/api.php/provide/vod/  -> 连接失败
+  caiji01.com  (成人48)  type=0  https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml  -> 连接失败
+  caiji22.com  (成人49)  type=0  https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml  -> 超时
+  caiji23.com  (成人50)  type=0  https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml  -> 超时
+  afasu.com  (成人51)  type=0  https://www.afasu.com/api/xml.php  -> 超时
+  hghhh.com  (成人52)  type=1  https://hghhh.com/api.php/provide/vod/  -> XML无video节点
+  sewozyapi.com  (成人53)  type=1  https://sewozyapi.com/api.php/provide/vod/  -> 连接失败
+  caiji04.com  (成人55)  type=0  https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml  -> 连接失败
+  caiji09.com  (成人56)  type=0  https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml  -> 超时
+  caiji05.com  (成人57)  type=0  https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml  -> 连接失败
+  jgczyapi.com  (成人58)  type=0  https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml  -> 超时
+  caiji.caomeiapi.com  (成人59)  type=1  https://caiji.caomeiapi.com/inc/apijson_vod.php  -> 连接失败
+  caiji.523zyw.com  (成人60)  type=1  https://caiji.523zyw.com/inc/apijson_vod.php  -> 连接失败
+  caiji.naichaapi.com  (成人61)  type=1  https://caiji.naichaapi.com/inc/apijson_vod.php  -> 连接失败
+  api.apilyzy.com  (成人62)  type=1  https://api.apilyzy.com/api.php/provide/vod/  -> 连接失败
+  影库资源  (影库资源)  type=1  https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/  -> 连接失败
+  速播  (速播)  type=1  https://api.suboapi.com/api.php/provide/vod/  -> HTTP 403
+  佳丽  (佳丽)  type=1  http://www.jializyzapi.com/api.php/provide/vod/  -> 超时
+  酷伦  (酷伦)  type=1  https://api.kudian70.com/api.php/provide/vod/  -> 连接失败
+  环亚  (环亚)  type=0  http://wmcj8.com/inc/sapi.php  -> XML解析失败(duplicate attribute: line 2, column 133)
+  花椒  (花椒)  type=1  https://apihjzy.com/api.php/provide/vod/  -> XML解析失败(syntax error: line 2, column 0)
+  zmcj88  (字幕网资源)  type=0  http://zmcj88.com/sapi?ac=videolist  -> XML解析失败(not well-formed (invalid token): line 1,)
+  乐鱼  (乐鱼)  type=0  https://www.leyuzyapi.com/inc/zyapimac.php  -> HTTP 403
+  酷豆  (酷豆)  type=1  https://api.kdapi.info/api.php/provide/vod/  -> 连接失败
+  名优馆  (名优馆)  type=0  http://mygzycj.com/sapi.php?ac=videolist  -> XML解析失败(not well-formed (invalid token): line 1,)
+  4000  (4000)  type=0  http://4000zy.com/inc/api.php  -> XML解析失败(mismatched tag: line 1, column 67)
+  *1024资源  (1024资源)  type=0  https://www.1024nf.com/api.php/provide/vod/at/xml  -> SSL错误
+  *玖玖资源  (玖玖资源)  type=0  http://99zywcj.com/inc/sapi.php?ac=videolist  -> 连接失败
+  *九九资源吧  (九九资源吧)  type=0  http://99zyba.com/api.php/provide/vod/at/xml  -> 连接失败
+  AVZY  (AVZY)  type=1  http://m.7777688.com/inc/apijson.php  -> HTTP 403
+  *爱看资源  (爱看资源)  type=1  http://www.aikanzyz9.com/inc/apijson_vod.php  -> 连接失败
+  *淫窝资源  (淫窝资源)  type=1  https://api.yinwoapi.com/api.php/provide/vod/  -> 连接失败
+  *4000资源  (4000资源)  type=1  https://www.4000zy.com/inc/apijson_vod.php  -> 连接失败
+  *大雕资源  (大雕资源)  type=1  http://www.caobi209.vip/api.php/provide/vod/  -> 连接失败
+  *水帘洞资源  (水帘洞资源)  type=1  https://www.sldcaiji.com/home/cjapi/s6da/mc10/vod/json  -> 连接失败
+  *淫人妻资源  (淫人妻资源)  type=1  http://www.yrqcaiji.com/home/cjapi/s6c7/mc10/vod/json  -> 连接失败
+  *小处女资源  (小处女资源)  type=1  http://xcncaiji.com/home/cjapi/s6bb/mc10/vod/json  -> 连接失败
+  *久久热在线  (久久热在线)  type=0  https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml  -> 超时
+  *天噜啦资源  (天噜啦资源)  type=0  http://www.987caiji.com/api/max.php  -> 连接失败
+  *010爱资源  (010爱资源)  type=0  http://www.010aizy.com/API/macs.php  -> 连接失败
+  *痴汉队长  (痴汉队长)  type=1  https://javcaptain.com/api.php/provide/vod/  -> HTTP 404
+  *爱操资源  (爱操资源)  type=1  https://aicaozy.com/api.php/provide/vod/  -> 连接失败
+  *浪潮资源  (浪潮资源)  type=1  http://langchaozy6.com/api.php/provide/vod/  -> 连接失败
+  *酷豆资源  (酷豆资源)  type=1  https://kudouzy.com/api.php/provide/vod/  -> 连接失败
+  *万影色  (万影色)  type=1  https://wanying4.com/api.php/provide/vod/  -> 连接失败
+  *银龙资源  (银龙资源)  type=1  https://yinlong.tv/api.php/provide/vod/  -> 连接失败
+  *爱播资源  (爱播资源)  type=1  https://cj.apiabzy.com/api.php/provide/vod/  -> 连接失败
+
+[跳过(csp/js 本地解析, 未测)]
+  泥巴  (泥巴)  type=3  csp_NiNi
+  audi  (audi)  type=3  ./js/audi_open.js
+  cat  (cat)  type=3  ./js/mtsp_open.js
+  lf_js_search  (搜索lfsearch)  type=3  ./js/lf_search3_min.js
+  lf_js_p2p  (磁力lfp2p)  type=3  ./js/lf_p2p2_min.js
+  csp_JavDb  (JavDb)  type=3  csp_JavDb
+  Jable  (Jable)  type=3  csp_Jable
+  MissAV  (MissAV)  type=3  csp_Miss
+  Supjav  (Supjav)  type=3  csp_Supjav
+  Hanime  (Hanime)  type=3  csp_Hanime
+  push_agent  (推送lfpush)  type=3  ./js/lf_pushagent_min.js
+  csp_xpath_xxj  (新香蕉XP)  type=3  csp_XPathMacFilter
+  csp_77  (关注hugo海哥实测)  type=3  csp_Kunyu77
+  csp_xpath_网络搜集库huaya  (虎牙)  type=3  csp_XPath
+  csp_xpath_网络搜集库qiumi  (球迷)  type=3  csp_XPathFilter
+  csp_xpath_A33  (MTV)  type=3  csp_XPath
+  csp_LiteApple  (苹果)  type=3  csp_LiteApple
+  csp_Kuaikan  (快看)  type=3  csp_Kuaikan
+  csp_DiDuan  (低端)  type=3  csp_DiDuan
+  csp_Cokemv  (Coke)  type=3  csp_Cokemv
+  csp_XBiubiubiubiu_蓝光影视  (蓝光)  type=3  csp_XBiubiu
+  csp_CZSPP  (厂长)  type=3  csp_CZSPP
+  csp_GitCafe  (纸条)  type=3  csp_GitCafe
+  csp_AliPanSou  (猫搜)  type=3  csp_AliPanSou
+  csp_SP360  (360)  type=3  csp_SP360
+  csp_DY1990  (990)  type=3  csp_DY1990
+  csp_appysv2_9e国语  (9E国语)  type=3  csp_AppYsV2
+  csp_xpath_网络搜集库112  (工人)  type=3  csp_XPathMacFilter
+  csp_xpath_网络搜集源03  (在线)  type=3  csp_XPathMacFilter
+  csp_XBiubiubiubiu_lmys  (蓝莓B)  type=3  csp_XBiubiu
+  csp_xpath_saohuo  (骚火)  type=3  csp_XPathMac
+  csp_biubiu_蓝光影院  (蓝光B)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_libvio  (libvioB)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_cokemv  (CokeB)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_lezhu  (乐猪B)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_555  (555B)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_ysgc  (工厂B)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_city  (cityB)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_手机看剧  (手机B)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_口袋影院  (口袋B)  type=3  csp_XBiubiu
+  csp_biubiu_特狗影视  (特狗B)  type=3  csp_XBiubiu
+  csp_biubiu_瓜皮TV  (瓜皮B)  type=3  csp_XBiubiu
+  csp_biubiu_真的卡影院  (真卡B)  type=3  csp_XBiubiu
+  csp_biubiu_大米星球  (大米B)  type=3  csp_XBiubiu
+  csp_biubiu_晗剧  (晗剧B)  type=3  csp_XBiubiu
+  csp_XBiubiubiubiu_4kan电影网  (4k网B)  type=3  csp_XBiubiu
+  csp_XPath_猫群首发  (哔嘀)  type=3  csp_XPathMacFilter
+  csp_xpath_网络搜集库29  (乌龟)  type=3  csp_XPathMac
+  csp_XPathMacFilter_网络搜集源02  (极品)  type=3  csp_XPathMacFilter
+  csp_xpath_网络搜集库naikan  (耐看)  type=3  csp_XPathFilter
+  csp_appysv2_爱酷影视  (酷酷)  type=3  csp_AppYsV2
+  csp_xpath_hhys  (火火)  type=3  csp_XPathMacFilter
+  csp_xpath_网络搜集库kankan  (看看)  type=3  csp_XPathMacFilter
+  csp_AppYsV2_美剧范  (美剧)  type=3  csp_AppYsV2
+  csp_xpath_网络搜集库heidong  (黑洞)  type=3  csp_XPathMac
+  csp_xpath_网络搜集源A13  (六度)  type=3  csp_XPathMacFilter
+  csp_xpath_网络搜集库108  (小熊)  type=3  csp_XPath
+  csp_xpath_网络搜集库62  (嘀哩)  type=3  csp_XPathFilter
+  csp_xpath_网络搜集库80  (兔子)  type=3  csp_XPath
+  csp_xpath_网络搜集库03  (影吧)  type=3  csp_XPath
+  csp_XPathMacFilter_网络搜集源01-js  (VOD)  type=3  csp_XPathMacFilter
+  csp_xpath_网络搜集库72  (钉钉)  type=3  csp_XPath
+  csp_xpath_网络搜集源21  (樱花)  type=3  csp_XPath
+  csp_xpath_A32  (动漫)  type=3  csp_XPath
+  csp_xpath_网络搜集源22  (巴士)  type=3  csp_XPath
+  csp_xpath_网络搜集源23  (AGE)  type=3  csp_XPath
+  csp_biubiu_风车动漫  (风车)  type=3  csp_XBiubiu
+  csp_biubiu_森屋新番  (森屋)  type=3  csp_XBiubiu
+  csp_biubiu_维奇动漫  (维奇)  type=3  csp_XBiubiu
+
+[可用源]
+  dadiapi.com  (成人01)  type=0  http://dadiapi.com/api.php  -> XML正常(20部/页), 分类29个
+  大奶子资源  (大奶子资源)  type=1  https://apidanaizi.com/api.php/provide/vod  -> JSON正常(20部/页), 分类36个
+  量子  (量子)  type=0  https://cj.lziapi.com/api.php/provide/vod/at/xml/  -> XML正常(20部/页), 分类40个
+  非凡  (非凡)  type=0  http://cj.ffzyapi.com/api.php/provide/vod/at/xml/  -> XML正常(20部/页), 分类31个
+  fhapi9.com  (成人14)  type=1  http://fhapi9.com/api.php/provide/vod/  -> JSON正常(20部/页), 分类32个
+  lbapi9.com  (成人41)  type=1  https://lbapi9.com/api.php/provide/vod/  -> JSON正常(20部/页), 裸地址请求失败, 未校验分类
+  *鲨鱼资源  (鲨鱼资源)  type=1  http://shayuapi.com/api.php/provide/vod/  -> JSON正常(20部/页), 分类22个

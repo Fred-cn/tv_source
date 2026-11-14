@@ -3,51 +3,6 @@
     "wallpaper": "http://api.btstu.cn/sjbz",
     "sites": [
         {
-            "key": "ms4nii",
-            "name": "美少女",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "淫水机",
-            "name": "淫水机",
-            "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "香奶儿",
-            "name": "香奶儿",
-            "type": 0,
-            "api": "https://www.gdlsp.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "白嫖",
-            "name": "白嫖",
-            "type": 0,
-            "api": "https://www.kxgav.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "黄AV",
-            "name": "黄AV",
-            "type": 0,
-            "api": "https://www.pgxdy.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "dadiapi.com",
             "name": "成人01",
             "type": 0,
@@ -146,6 +101,16 @@
             "ext": "18+"
         },
         {
+            "key": "csp_JavDb",
+            "name": "JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
             "key": "Jable",
             "name": "Jable",
             "type": 3,
@@ -170,19 +135,19 @@
             "jar": "./jar/fm_push.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9"
         },
         {
+            "key": "Supjav",
+            "name": "Supjav",
+            "type": 3,
+            "api": "csp_Supjav",
+            "searchable": 1
+        },
+        {
             "key": "Hanime",
             "name": "Hanime",
             "type": 3,
             "api": "csp_Hanime",
             "searchable": 1,
             "jar": "./jar/fm_push.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9"
-        },
-        {
-            "key": "91md.me",
-            "name": "成人05",
-            "type": 1,
-            "api": "http://91md.me/api.php/provide/vod/",
-            "searchable": 1
         },
         {
             "key": "fhapi9.com",
@@ -208,6 +173,16 @@
             "filterable": 0,
             "api": "./js/lf_pushagent_min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
+        },
+        {
+            "key": "csp_xpath_xxj",
+            "name": "新香蕉XP",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json"
         },
         {
             "key": "*鲨鱼资源",
@@ -350,6 +325,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
+        },
+        {
+            "key": "csp_appysv2_9e国语",
+            "name": "9E国语",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
             "key": "csp_xpath_网络搜集库112",
@@ -598,6 +583,16 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-naikan.js"
         },
         {
+            "key": "csp_appysv2_爱酷影视",
+            "name": "酷酷",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+        },
+        {
             "key": "csp_xpath_hhys",
             "name": "火火",
             "type": 3,
@@ -616,6 +611,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-wmkankan.js"
+        },
+        {
+            "key": "csp_AppYsV2_美剧范",
+            "name": "美剧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ttzmz.net/api.php/v1.vod"
         },
         {
             "key": "csp_xpath_网络搜集库heidong",

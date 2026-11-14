@@ -1,4 +1,5 @@
 import json
+import re
 import sys
 import time
 import xml.etree.ElementTree as ET
@@ -85,6 +86,30 @@ def validate_json(data):
     play = it.get("vod_play_url") or ""
     has_play = "http" in play
     return True, f"JSON正常({len(lst)}部/页)", str(it.get("vod_id")), has_play
+
+
+def has_home_class(api, stype):
+    """TVBox系app进站主页请求的是裸api地址，靠响应里的分类节点生成主页。
+    xml: <class>下须有<ty id=..>子节点; json: 须有非空class数组。
+    分类缺失的源列表接口再正常，app主页也是全空(如msnii系)。
+    返回 (ok, detail)；裸地址请求失败时不判死(以列表结果为准)。"""
+    try:
+        r = session.get(api, timeout=TIMEOUT)
+        if r.status_code != 200:
+            return True, f"裸地址HTTP {r.status_code}, 未校验分类"
+        if stype == 0:
+            body = r.content.decode("utf-8", "replace")
+            if "<class>" in body and re.search(r"<ty\s+id=", body):
+                n = len(re.findall(r"<ty\s+id=", body))
+                return True, f"分类{n}个"
+            return False, "裸地址<class>无<ty>分类节点"
+        data = r.json()
+        cls = data.get("class") if isinstance(data, dict) else None
+        if isinstance(cls, list) and cls:
+            return True, f"分类{len(cls)}个"
+        return False, "裸地址JSON无class数组"
+    except Exception:
+        return True, "裸地址请求失败, 未校验分类"
 
 
 def check_play_detail(api, stype, vid):
@@ -247,6 +272,13 @@ def check_site(site):
                     last_err = f"列表可解析但{p_detail}"
                     break  # 换下一个候选
                 detail += f", {p_detail}"
+
+            # 主页可用性: app进站请求裸api, 无分类节点则主页全空
+            h_ok, h_detail = has_home_class(api, actual_type)
+            if not h_ok:
+                last_err = f"列表可解析但{h_detail}"
+                break  # 换下一个候选
+            detail += f", {h_detail}"
 
             note = f" [type {stype}->{actual_type}]" if fixed_type is not None else ""
             return {"key": key, "name": name, "api": api, "type": stype,
