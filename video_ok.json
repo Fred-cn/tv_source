@@ -117,24 +117,6 @@
             ]
         },
         {
-            "key": "audi",
-            "name": "audi",
-            "type": 3,
-            "api": "./js/audi_open.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "cat",
-            "name": "cat",
-            "type": 3,
-            "api": "./js/mtsp_open.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "lf_js_search",
             "name": "搜索lfsearch",
             "type": 3,
@@ -200,17 +182,6 @@
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/",
             "searchable": 1
-        },
-        {
-            "key": "push_agent",
-            "name": "推送lfpush",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "./js/lf_pushagent_min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
         },
         {
             "key": "*鲨鱼资源",

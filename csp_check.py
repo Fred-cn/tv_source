@@ -96,14 +96,35 @@ def main():
         api = str(s.get("api", ""))
         ext = s.get("ext")
 
-        # 本地相对路径 js: 仓库里不存在 -> 坏
+        # 本地相对路径 js: 仓库里不存在 -> 坏; 目标站探活 -> js 源里写死的域名死了也判坏
         if api.startswith("./") or (isinstance(ext, str) and ext.startswith("./")):
             import os
             local = api if api.startswith("./") else ext
-            if os.path.exists(local.lstrip("./")):
-                rows.append((s, "OK", "本地文件存在"))
-            else:
+            if not os.path.exists(local.lstrip("./")):
                 rows.append((s, "DEAD", f"本地文件缺失: {local}"))
+                continue
+            # 优先测 http ext(csp_Msnii 多行 ext / audi 的目标站覆盖), 再退化为 js 明文域名
+            import re as _re
+            if isinstance(ext, str) and ext.split("\n")[0].startswith("http"):
+                ok, detail = ext_status.get(key, (False, "未测"))
+                if ok:
+                    rows.append((s, "OK", f"本地文件存在, ext可达({detail})"))
+                else:
+                    rows.append((s, "DEAD", f"ext不可达: {ext.split(chr(10))[0]} ({detail})"))
+                continue
+            try:
+                js = open(local.lstrip("./"), encoding="utf-8", errors="replace").read()
+                urls = _re.findall(r"https?://[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", js[:8000])
+                if urls:
+                    ok, detail = test_ext(urls[0])
+                    if ok:
+                        rows.append((s, "OK", f"本地文件存在, 目标站可达({detail})"))
+                    else:
+                        rows.append((s, "DEAD", f"js目标站不可达: {urls[0]} ({detail})"))
+                else:
+                    rows.append((s, "OK", "本地文件存在(明文无目标站, 未测)"))
+            except Exception as e:
+                rows.append((s, "OK", f"本地文件存在(目标站检测失败: {type(e).__name__})"))
             continue
 
         cls = api[4:] if api.startswith("csp_") else None

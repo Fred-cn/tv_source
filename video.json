@@ -217,7 +217,8 @@
             "api": "./js/audi_open.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://maa1829.com/zh"
         },
         {
             "key": "cat",
