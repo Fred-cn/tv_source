@@ -17,6 +17,7 @@ JARS = {
     "jar/fm_push.jar": None,
     "jar/XBiubiu.jar": None,
     "jar/spider.jar": None,
+    "jar/msnii.jar": None,        # csp_Msnii (msnii系分类包装)
 }
 
 
@@ -78,9 +79,12 @@ def main():
     # ---- 分类 csp/js 源 ----
     print(f"csp/js 源共 {len(csp)} 个，开始分类...")
 
-    # 远程 ext 并发测试
-    ext_items = {s["key"]: s["ext"] for s in csp
-                 if isinstance(s.get("ext"), str) and s["ext"].startswith("http")}
+    # 远程 ext 并发测试（csp_Msnii 类多行 ext: 首行才是 URL）
+    def ext_url(v):
+        return v.split("\n")[0].strip()
+
+    ext_items = {s["key"]: ext_url(s["ext"]) for s in csp
+                 if isinstance(s.get("ext"), str) and ext_url(s["ext"]).startswith("http")}
     ext_status = {}
     with cf.ThreadPoolExecutor(max_workers=16) as ex:
         for k, (ok, detail) in zip(ext_items, ex.map(test_ext, ext_items.values())):

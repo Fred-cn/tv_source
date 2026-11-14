@@ -3,6 +3,61 @@
     "wallpaper": "http://api.btstu.cn/sjbz",
     "sites": [
         {
+            "key": "ms4nii",
+            "name": "美少女",
+            "type": 3,
+            "api": "csp_Msnii",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.msnii.com/api/xml.php\n1=精品推荐\n20=网红主播\n21=偷拍盗摄\n22=传媒出品\n23=素人自拍\n24=巨乳少妇\n25=多P精选\n26=日系有码\n27=亚洲自拍\n28=日系素人\n29=有码精选\n30=日系名模\n31=欧美网络\n32=熟女系\n33=日系女优\n35=日系番号\n36=港台三级\n37=欧美精选\n38=里番动漫",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
+        },
+        {
+            "key": "淫水机",
+            "name": "淫水机",
+            "type": 3,
+            "api": "csp_Msnii",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xrbsp.com/api/xml.php\n20=探花系列\n21=日系有码\n22=日系巨乳\n23=东京热\n24=国产主播\n25=日系企划\n26=日系有码\n27=日系无码\n28=日系剧情\n29=欧美精选\n30=里番动漫",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
+        },
+        {
+            "key": "香奶儿",
+            "name": "香奶儿",
+            "type": 3,
+            "api": "csp_Msnii",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.gdlsp.com/api/xml.php\n20=国产网红\n21=传媒出品\n22=国产自拍\n23=日系有码\n24=FC2素人\n25=中文字幕\n26=日系有码\n27=国产自拍\n28=日系剧情\n29=日系企划\n30=国产自拍\n31=欧美精选\n32=里番动漫",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
+        },
+        {
+            "key": "白嫖",
+            "name": "白嫖",
+            "type": 3,
+            "api": "csp_Msnii",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kxgav.com/api/xml.php\n20=国产传媒\n21=探花系列\n22=日系精选\n23=国产情侣\n24=日系出道\n25=日系有码\n26=欧美精选\n27=日系剧情\n28=海外买春\n29=日系女优\n30=国产自拍\n31=女同百合\n32=欧美精选\n33=里番动漫\n35=欧美精选\n37=国产束缚",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
+        },
+        {
+            "key": "黄AV",
+            "name": "黄AV",
+            "type": 3,
+            "api": "csp_Msnii",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.pgxdy.com/api/xml.php\n20=日系剧情\n22=国产自拍\n23=日系有码\n26=日系紧缚\n27=日系有码\n28=日系调教\n29=欧美精选\n31=欧美中出\n32=国产精选",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
+        },
+        {
             "key": "dadiapi.com",
             "name": "成人01",
             "type": 0,
@@ -101,16 +156,6 @@
             "ext": "18+"
         },
         {
-            "key": "csp_JavDb",
-            "name": "JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
             "key": "Jable",
             "name": "Jable",
             "type": 3,
@@ -133,13 +178,6 @@
                 "ratio": 1.33
             },
             "jar": "./jar/fm_push.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9"
-        },
-        {
-            "key": "Supjav",
-            "name": "Supjav",
-            "type": 3,
-            "api": "csp_Supjav",
-            "searchable": 1
         },
         {
             "key": "Hanime",
@@ -175,16 +213,6 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
         },
         {
-            "key": "csp_xpath_xxj",
-            "name": "新香蕉XP",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json"
-        },
-        {
             "key": "*鲨鱼资源",
             "name": "鲨鱼资源",
             "type": 1,
@@ -200,36 +228,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
-        },
-        {
-            "key": "csp_xpath_网络搜集库huaya",
-            "name": "虎牙",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/huya.js"
-        },
-        {
-            "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-qiumi.js"
-        },
-        {
-            "key": "csp_xpath_A33",
-            "name": "MTV",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/mtv"
         },
         {
             "key": "csp_LiteApple",
@@ -268,17 +266,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_XBiubiubiubiu_蓝光影视",
-            "name": "蓝光",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b02-lgys.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
         },
         {
             "key": "csp_CZSPP",
@@ -325,455 +312,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "csp_appysv2_9e国语",
-            "name": "9E国语",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
-        },
-        {
-            "key": "csp_xpath_网络搜集库112",
-            "name": "工人",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-gongreng.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集源03",
-            "name": "在线",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/zxzj.js"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_lmys",
-            "name": "蓝莓B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b14-libvio.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_xpath_saohuo",
-            "name": "骚火",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/saohuo.json"
-        },
-        {
-            "key": "csp_biubiu_蓝光影院",
-            "name": "蓝光B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a00-lgyy.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_libvio",
-            "name": "libvioB",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a20-libvio619.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_cokemv",
-            "name": "CokeB",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b00-coke.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b13-lezhu.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_555",
-            "name": "555B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b01-555dy.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_ysgc",
-            "name": "工厂B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b03-ysgc.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_city",
-            "name": "cityB",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/city.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_手机看剧",
-            "name": "手机B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b06-sjkj.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b07-kdys.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_biubiu_特狗影视",
-            "name": "特狗B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a10-tgys.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_biubiu_瓜皮TV",
-            "name": "瓜皮B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a11-gptv.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_biubiu_真的卡影院",
-            "name": "真卡B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a12-zk.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_biubiu_大米星球",
-            "name": "大米B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a13-dmxq.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_biubiu_晗剧",
-            "name": "晗剧B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/a14-hanju.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_4kan电影网",
-            "name": "4k网B",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/b11-4Kkan.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_XPath_猫群首发",
-            "name": "哔嘀",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-bidi.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集库29",
-            "name": "乌龟",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dadagui.json"
-        },
-        {
-            "key": "csp_XPathMacFilter_网络搜集源02",
-            "name": "极品",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/jp"
-        },
-        {
-            "key": "csp_xpath_网络搜集库naikan",
-            "name": "耐看",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-naikan.js"
-        },
-        {
-            "key": "csp_appysv2_爱酷影视",
-            "name": "酷酷",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "csp_xpath_hhys",
-            "name": "火火",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-huohuo.js"
-        },
-        {
-            "key": "csp_xpath_网络搜集库kankan",
-            "name": "看看",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/516-wmkankan.js"
-        },
-        {
-            "key": "csp_AppYsV2_美剧范",
-            "name": "美剧",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ttzmz.net/api.php/v1.vod"
-        },
-        {
-            "key": "csp_xpath_网络搜集库heidong",
-            "name": "黑洞",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/505-heidong.js"
-        },
-        {
-            "key": "csp_xpath_网络搜集源A13",
-            "name": "六度",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/6dutv.js"
-        },
-        {
-            "key": "csp_xpath_网络搜集库108",
-            "name": "小熊",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-xiaoxiong.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集库62",
-            "name": "嘀哩",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dili.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集库80",
-            "name": "兔子",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-tuzi.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集库03",
-            "name": "影吧",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-yingba.json"
-        },
-        {
-            "key": "csp_XPathMacFilter_网络搜集源01-js",
-            "name": "VOD",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-vod.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集库72",
-            "name": "钉钉",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/519-dingzidy.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集源21",
-            "name": "樱花",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/605-yhdm.js"
-        },
-        {
-            "key": "csp_xpath_A32",
-            "name": "动漫",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-dmd.js"
-        },
-        {
-            "key": "csp_xpath_网络搜集源22",
-            "name": "巴士",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-dm84.js"
-        },
-        {
-            "key": "csp_xpath_网络搜集源23",
-            "name": "AGE",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/x/refs/heads/main/604-age.js"
-        },
-        {
-            "key": "csp_biubiu_风车动漫",
-            "name": "风车",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/d05-fcdm.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_biubiu_森屋新番",
-            "name": "森屋",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/d02-swxf.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
-        },
-        {
-            "key": "csp_biubiu_维奇动漫",
-            "name": "维奇",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tvba/b/refs/heads/main/xb/d03-wqdm.js",
-            "jar": "./jar/XBiubiu.jar;md5;389c60fa426852cd2b35baee5a302285"
         }
     ],
     "parses": [

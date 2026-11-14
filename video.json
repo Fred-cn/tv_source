@@ -14,29 +14,35 @@
         {
             "key": "ms4nii",
             "name": "美少女",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
+            "type": 3,
+            "api": "csp_Msnii",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.msnii.com/api/xml.php\n1=精品推荐\n20=网红主播\n21=偷拍盗摄\n22=传媒出品\n23=素人自拍\n24=巨乳少妇\n25=多P精选\n26=日系有码\n27=亚洲自拍\n28=日系素人\n29=有码精选\n30=日系名模\n31=欧美网络\n32=熟女系\n33=日系女优\n35=日系番号\n36=港台三级\n37=欧美精选\n38=里番动漫",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
         },
         {
             "key": "淫水机",
             "name": "淫水机",
-            "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
+            "type": 3,
+            "api": "csp_Msnii",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.xrbsp.com/api/xml.php\n20=探花系列\n21=日系有码\n22=日系巨乳\n23=东京热\n24=国产主播\n25=日系企划\n26=日系有码\n27=日系无码\n28=日系剧情\n29=欧美精选\n30=里番动漫",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
         },
         {
             "key": "香奶儿",
             "name": "香奶儿",
-            "type": 0,
-            "api": "https://www.gdlsp.com/api/xml.php",
+            "type": 3,
+            "api": "csp_Msnii",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.gdlsp.com/api/xml.php\n20=国产网红\n21=传媒出品\n22=国产自拍\n23=日系有码\n24=FC2素人\n25=中文字幕\n26=日系有码\n27=国产自拍\n28=日系剧情\n29=日系企划\n30=国产自拍\n31=欧美精选\n32=里番动漫",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
         },
         {
             "key": "*AIvin",
@@ -47,20 +53,24 @@
         {
             "key": "白嫖",
             "name": "白嫖",
-            "type": 0,
-            "api": "https://www.kxgav.com/api/xml.php",
+            "type": 3,
+            "api": "csp_Msnii",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.kxgav.com/api/xml.php\n20=国产传媒\n21=探花系列\n22=日系精选\n23=国产情侣\n24=日系出道\n25=日系有码\n26=欧美精选\n27=日系剧情\n28=海外买春\n29=日系女优\n30=国产自拍\n31=女同百合\n32=欧美精选\n33=里番动漫\n35=欧美精选\n37=国产束缚",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
         },
         {
             "key": "黄AV",
             "name": "黄AV",
-            "type": 0,
-            "api": "https://www.pgxdy.com/api/xml.php",
+            "type": 3,
+            "api": "csp_Msnii",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.pgxdy.com/api/xml.php\n20=日系剧情\n22=国产自拍\n23=日系有码\n26=日系紧缚\n27=日系有码\n28=日系调教\n29=欧美精选\n31=欧美中出\n32=国产精选",
+            "jar": "./jar/msnii.jar;md5;34e216dabc08cdc0fc22294ed45b0617"
         },
         {
             "key": "*易看资源",
