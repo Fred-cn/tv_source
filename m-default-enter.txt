@@ -1,0 +1,5 @@
+{"storeHouse": [
+{"sourceName":"💚精选多仓🍭","sourceUrl":"https://tvbox.live-box.cfd/tv-multi-base.json"},
+{"sourceName":"💛多仓线路🍭","sourceUrl":"https://tvbox.live-box.cfd/tv-multi-repo.json"},
+{"sourceName":"💜影视多仓🍭","sourceUrl":"https://700sjro44343.vicp.fun/vip/vip/duo.txt"}
+]}

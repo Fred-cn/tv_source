@@ -1,0 +1,6 @@
+/*
+  Cache-Control: public, max-age=600
+
+/m-default-enter.txt
+  Cache-Control: public, max-age=300
+
